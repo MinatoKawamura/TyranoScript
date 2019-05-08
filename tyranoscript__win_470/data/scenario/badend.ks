@@ -1,3 +1,3 @@
-*badendstart
-ƒ{ƒN‚ÍBŽq‚Æ‚¢‚Á‚µ‚å‚É•é‚µ‚Ä‚¢‚éB[r]
-‚à‚¤Ž€‚É‚½‚¢B
+*badendstart|
+ãƒœã‚¯ã¯Bå­ã¨ã„ã£ã—ã‚‡ã«æš®ã—ã¦ã„ã‚‹ã€‚[r]
+ã‚‚ã†æ­»ã«ãŸã„ã€‚
