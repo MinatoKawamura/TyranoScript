@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LinkProxyList</key>
+	<dict>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Proxy</key>
+				<dict>
+					<key>Alias</key>
+					<dict>
+						<key>/* AliasPath */</key>
+						<string>/Applications/Parallels Desktop.app</string>
+						<key>AliasData</key>
+						<data>
+						AAAAAAFqAAIAAQdNYWMgU1NEAAAA
+						AAAAAAAAAAAAAAAAAAAAAADW5HQC
+						SCsAAAAABboVUGFyYWxsZWxzIERl
+						c2t0b3AuYXBwAAAAAAAAAAAAAAAA
+						AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+						AAAAAAAAAAAAAHomAdcoGT4AAAAA
+						AAAAAP////8AAAkgAAAAAAAAAAAA
+						AAAAAAAADEFwcGxpY2F0aW9ucwAQ
+						AAgAANbj9XIAAAARAAgAANcnmq4A
+						AAABAAQAAAW6AAIAK01hYyBTU0Q6
+						QXBwbGljYXRpb25zOgBQYXJhbGxl
+						bHMgRGVza3RvcC5hcHAAAA4ALAAV
+						AFAAYQByAGEAbABsAGUAbABzACAA
+						RABlAHMAawB0AG8AcAAuAGEAcABw
+						AA8AEAAHAE0AYQBjACAAUwBTAEQA
+						EgAiQXBwbGljYXRpb25zL1BhcmFs
+						bGVscyBEZXNrdG9wLmFwcAATAAEv
+						AP//AAA=
+						</data>
+					</dict>
+				</dict>
+				<key>ProxyKind</key>
+				<string>Alias</string>
+			</dict>
+		</array>
+	</dict>
+	<key>LinkTarget</key>
+	<dict>
+		<key>TargetObject</key>
+		<dict>
+			<key>CommandAction</key>
+			<dict>
+				<key>CommandLine</key>
+				<string></string>
+			</dict>
+			<key>CommandActionKind</key>
+			<string>CommandLine</string>
+			<key>CommandOptions</key>
+			<dict>
+				<key>ShowCommand</key>
+				<string>Normal</string>
+			</dict>
+		</dict>
+		<key>TargetObjectKind</key>
+		<string>Command</string>
+		<key>TargetSource</key>
+		<dict>
+			<key>VmName</key>
+			<string>Windows 10 HOME</string>
+			<key>VmPath</key>
+			<string>/Users/kitanomasaru/Documents/書類 - kitanomasaru’s MacBook Pro/Parallels/Windows 10 HOME.pvm/config.pvs</string>
+			<key>VmUuid</key>
+			<string>{2c4c0b89-cac7-4dd6-acd1-4c379db0ec92}</string>
+		</dict>
+		<key>TargetSourceKind</key>
+		<string>PrlVm</string>
+	</dict>
+</dict>
+</plist>
